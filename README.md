@@ -6,6 +6,8 @@ Here's a collection of useful emoji (mostly formatted for Slack)
 Due to the addition of [dark mode](https://slackhq.com/dark-mode-for-slack-desktop)
 - use transparent backgrounds
 
+![Transparent background example](/resources/example/transparent-emoji.png)
+
 Be aware of the size of the content:
 - busy images or small text can be difficult read (especially when used as reactions)
 
