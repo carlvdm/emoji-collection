@@ -1,5 +1,5 @@
 # emoji-collection
-Here's a collection of useful emoji (mostly formatted for Slack)
+A collection of useful emoji (mostly formatted for Slack)
 
 #### For Slack usage
 
