@@ -6,10 +6,25 @@ Here's a collection of useful emoji (mostly formatted for Slack)
 Due to the addition of [dark mode](https://slackhq.com/dark-mode-for-slack-desktop)
 - use transparent backgrounds
 
-![Transparent background example](/resources/example/transparent-emoji.png)
+![Transparent background example](./resources/example/transparent-emoji.png)
+
+- be cautious of dark images or text
+
+
 
 Be aware of the size of the content:
+
 - busy images or small text can be difficult read (especially when used as reactions)
+
+
+
+Text emoji creation:
+
+- [favicon.io/favicon-generator](https://favicon.io/favicon-generator/)
+- use gray (for dark mode users)
+- select a legible font family (e.g. Martel Sans)
+
+
 
 Custom emoji resources:
 - [Add custom emoji](https://slack.com/intl/en-za/help/articles/206870177-add-custom-emoji)
