@@ -16,6 +16,8 @@ Be aware of the size of the content:
 
 - busy images or small text can be difficult read (especially when used as reactions)
 
+  ![Image noise example](./resources/example/img-noise.png)
+
 
 
 Text emoji creation:
